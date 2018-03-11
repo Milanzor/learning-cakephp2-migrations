@@ -7,6 +7,9 @@
   "config": {
     "vendor-dir": "Vendor/"
   },
+  "scripts": {
+    "cake": "cake -app app -webroot public_html"
+  },
   "extra": {
     "installer-paths": {
       "Vendor/cakephp-plugin/{$name}": [
