@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "044d00d9adc303e24b86ebe9fc1744c8",
+    "content-hash": "4f57c875860b77bd8e17ba2d695e709e",
     "packages": [
         {
             "name": "cakephp/cakephp",
@@ -223,25 +223,13 @@
                 "zikula"
             ],
             "time": "2017-12-29T09:13:20+00:00"
-        },
-        {
-            "name": "dogfalo/materialize-src",
-            "version": "1.0.0-alpha.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/Dogfalo/materialize/releases/download/1.0.0-alpha.2/materialize-src-v1.0.0-alpha.2.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "type": "library"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "cakephp/debug_kit": 20,
-        "dogfalo/materialize-src": 15
+        "cakephp/debug_kit": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
