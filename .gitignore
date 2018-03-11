@@ -7,8 +7,6 @@ Vendor
 /app/tmp/cache/*/*
 !/app/tmp/cache/*/empty
 /app/tmp/logs/*.log*
-/lib/Cake/Console/Templates/skel/tmp/
-/lib/Cake_*
 
 *.mo
 /.htpasswd
