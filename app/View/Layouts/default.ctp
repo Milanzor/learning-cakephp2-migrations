@@ -15,9 +15,6 @@
     # Meta
     echo $this->fetch('meta');
 
-    # CSS
-        echo $this->Html->css('cake.generic');
-
     # CSS Fetch other styles
     echo $this->fetch('css');
 
