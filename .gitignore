@@ -1,18 +1,18 @@
 Vendor
 
-/app/Config/database.php
-/app/Config/core.php
+app/Config/database.php
+app/Config/core.php
 
-/app/tmp/cache/cake_*
-/app/tmp/cache/*/*
-!/app/tmp/cache/*/empty
-/app/tmp/logs/*.log*
+app/tmp/cache/cake_*
+app/tmp/cache/*/*
+!app/tmp/cache/*/empty
+app/tmp/logs/*.log*
 
 *.mo
-/.htpasswd
-/logs
-/stats
-/rc.sh
+.htpasswd
+logs
+stats
+rc.sh
 
 /nbproject
 .idea
