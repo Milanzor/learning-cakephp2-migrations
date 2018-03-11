@@ -1,13 +1,14 @@
 Vendor
-/cakephp/app/Config/database.php
-/cakephp/app/Config/core.php
 
-/cakephp/app/tmp/cache/cake_*
-/cakephp/app/tmp/cache/*/*
-!/cakephp/app/tmp/cache/*/empty
-/cakephp/app/tmp/logs/*.log*
-/cakephp/lib/Cake/Console/Templates/skel/tmp/
-/cakephp/lib/Cake_*
+/app/Config/database.php
+/app/Config/core.php
+
+/app/tmp/cache/cake_*
+/app/tmp/cache/*/*
+!/app/tmp/cache/*/empty
+/app/tmp/logs/*.log*
+/lib/Cake/Console/Templates/skel/tmp/
+/lib/Cake_*
 
 *.mo
 /.htpasswd
